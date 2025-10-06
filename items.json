@@ -11438,6 +11438,22 @@
     }
   },
   {
+    "name": "Azmeri Reliquary Key",
+    "itemClass": "VaultKey",
+    "baseItemLevel": 35,
+    "maxItemLevel": 100,
+    "implicitMods": [
+      "VaultKeyReliquarySetAzmeriSpirit"
+    ],
+    "modTags": [
+      "fake_currency",
+      "default"
+    ],
+    "itemStats": {
+      "criticalStrikeChance": null
+    }
+  },
+  {
     "name": "Blood-filled Vessel",
     "itemClass": "MapFragment",
     "baseItemLevel": 1,
